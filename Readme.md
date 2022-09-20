@@ -5,12 +5,12 @@ Telegram bot with download video and image from Pinterest.
 
 ## Deploy To HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammedfurkan/pinterest_downloader_telegram)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dangerbots/pinterest_downloader_telegram)
 
 #### Deoploy to Manually
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/muhammedfurkan/pinterest_downloader_telegram.git
+git clone https://github.com/dangerbots/pinterest_downloader_telegram.git
 cd pinterest_downloader_telegram
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
